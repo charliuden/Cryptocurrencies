@@ -21,3 +21,12 @@ An elbow curve indicates a K-means analysis with k=4 or four clusters.
 - *Deliverable 4:* Visualizing Cryptocurrencies Results
 
 The results of the scatter plot can be visualized in a table and  3D and 2D scatter plots. 
+
+## Analysis Results:
+The results of a k-means analysis can be seen in the elbow curve below. The elbow curve transitions to a more horizontal direction at about k=4 clusters. This indicates that 4 clusters should be used in the unsupervised machine learning algorithm. 
+
+![elbow_curve.png](https://github.com/charliuden/Cryptocurrencies/blob/main/readme_images/elbow_curve.png)
+
+A 3D scatter plot provides a visual of the three principal componenets and four clusters. 
+
+![3d_scatter_clusters.png](https://github.com/charliuden/Cryptocurrencies/blob/main/readme_images/3d_scatter_clusters.png)
