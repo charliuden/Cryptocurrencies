@@ -29,4 +29,4 @@ The results of a k-means analysis can be seen in the elbow curve below. The elbo
 
 A 3D scatter plot provides a visual of the three principal componenets and four clusters. 
 
-![3d_scatter_clusters.png](https://github.com/charliuden/Cryptocurrencies/blob/main/readme_images/3d_scatter_clusters.png)
+![3D_scatter_clusters.png](https://github.com/charliuden/Cryptocurrencies/blob/main/readme_images/3D_scatter_clusters.png)
